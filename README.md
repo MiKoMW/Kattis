@@ -1,4 +1,4 @@
 # Kattis
-Code for Kattis. It is just for fun. : )
+Code for Kattis. It is for fun. : )
 
 Kattis ID: Miko.
