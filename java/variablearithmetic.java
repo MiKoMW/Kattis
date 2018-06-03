@@ -70,6 +70,8 @@ public class variablearithmetic {
             }
 
         }
+        return resultParts.stream().collect(Collectors.joining(" + "));
+
         if(num == 0){
             return undefined.toString().substring(3);
         }
